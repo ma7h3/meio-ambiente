@@ -1,0 +1,35 @@
+.sp {
+    color: #9999A9;
+    position: relative;
+    top:-80px;
+    left: 230px;
+}
+
+.mvf {
+    color: #5F5F63;
+    position: relative;
+    top: -100px;
+    left: 230px;
+}
+.cabeçalho{
+    background-color: #C5F0AB;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+  color: black;
+}
+.bt{
+    background-color: #C5F0AB;
+    border-radius: 100px;
+}
+.bt:hover{
+    color: white;
+    background-color: #000;
+  }
+.pé{
+    margin: 0;
+    background-color: #C5F0AB;
+}

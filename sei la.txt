@@ -1,0 +1,4 @@
+       <div class="bt"> <button><a href="?????">consumo sustentável</a></button> </div>
+        <button div class="bt2"><a href="???????">forma de tratamento</a></button>
+        <button div class="bt2"><a href="????????">sobre os 5Rs</a></button>
+        <button div class="bt2"><a href="????????">tipos de lixos e suas consequencias</a></button>
